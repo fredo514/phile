@@ -14,4 +14,6 @@ This wireless speaker amplifier board consists of:
 * Rotary endoder switch
 * Status LEDs
 
+The Raspberry Pi is meant to run RPIWS, the Raspberry Pi Wireless Speaker (https://github.com/fredo514/rpiws).
+
 THIS PROJECT IS STILL A WORK IN PROGRESS.
