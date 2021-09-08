@@ -13,3 +13,5 @@ This wireless speaker amplifier board consists of:
 * Push buttons
 * Rotary endoder switch
 * Status LEDs
+
+THIS PROJECT IS STILL A WORK IN PROGRESS.
