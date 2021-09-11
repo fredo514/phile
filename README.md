@@ -1,4 +1,4 @@
-# Phile amplifier
+# phile-amp
 Wireless speaker amplifer board
 
 This wireless speaker amplifier board consists of:
@@ -9,7 +9,7 @@ This wireless speaker amplifier board consists of:
 * Ethernet input
 * USB input
 * Analog Devices ADAU1762 DSP programmable through the Raspberry Pi
-* TI TAS5756M Amplifier for bi-amped output (mono default)
+* TI TAS??? Amplifier for bi-amped output (mono default)
 * Push buttons inputs
 * Rotary endoder switch input
 * Status LEDs outputs
