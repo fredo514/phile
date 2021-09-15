@@ -1,5 +1,5 @@
 # phile-amp
-Wireless speaker amplifer board
+Wireless speaker plate amplifer board
 
 This wireless speaker amplifier board consists of:
 * 24VDC input
