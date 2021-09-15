@@ -7,9 +7,9 @@ This wireless speaker amplifier board consists of:
 * TI PCM1863 ADC for AUX input
 * S/PDIF input
 * Ethernet input
-* USB input
+* USB input (appear as sound card)
 * Analog Devices ADAU1762 DSP programmable through the Raspberry Pi
-* TI TAS??? Amplifier for bi-amped output (mono default)
+* TI TAS5756M Amplifier for bi-amped output (mono default)
 * Push buttons inputs
 * Rotary endoder switch input
 * Status LEDs outputs
